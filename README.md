@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# I am AKİF TÜRK
+# 💫 I am AKİF TÜRK
 
-# 💫About Me :
+# 💫 About Me :
 - I am a Front-End Developer
 - I am currently working in the industry
 - I constantly learn new things to improve myself
